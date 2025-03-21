@@ -46,6 +46,7 @@ thinking: |
 action: search OR answer
 reason: |
     <why you chose this action>
+answer: <if action is answer>
 search_query: <specific search query if action is search>
 ```
 IMPORTANT: Make sure to:
