@@ -1,5 +1,5 @@
 from openai import OpenAI
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 def call_llm(prompt):    
     #client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "your-api-key"))
